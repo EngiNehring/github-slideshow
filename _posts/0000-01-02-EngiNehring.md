@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Big Oof
+Haha funny yellow dog is money
 Use the left arrow to go back!
